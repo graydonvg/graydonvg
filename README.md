@@ -22,7 +22,7 @@ Status: Work in progress.
 A media gallery with AI powered editing features.
 
 Tech Stack: TypeScript, React.js, Next.js, Redux, Supabase, Tailwind CSS, shadcn, Cloudinary.   
-Live Demo: coming soon!  
+Live Demo: Coming soon!  
 GitHub: https://github.com/graydonvg/gallery-ai  
 Status: Work in progress.
 
