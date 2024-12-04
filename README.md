@@ -19,7 +19,7 @@ GitHub: https://github.com/graydonvg/my-store
 Status: Work in progress.
 
 **Gallery AI**  
-A media gallery with AI powered editing features.
+AI powered image and video gallery and editing platform.
 
 Tech Stack: TypeScript, React.js, Next.js, Redux, Supabase, Tailwind CSS, shadcn, Cloudinary.   
 Live Demo: Coming soon!  
