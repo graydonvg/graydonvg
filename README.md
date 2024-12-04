@@ -15,14 +15,16 @@ A clothing e-commerce store featuring an admin panel with role-based access cont
 
 Tech Stack: TypeScript, React.js, Next.js, Redux, Supabase, Material UI, Stripe.   
 Live Demo: https://my-store-henna.vercel.app/  
-GitHub: https://github.com/graydonvg/my-store
+GitHub: https://github.com/graydonvg/my-store  
+Status: Work in progress.
 
 **Gallery AI**  
 A media gallery with AI powered editing features.
 
 Tech Stack: TypeScript, React.js, Next.js, Redux, Supabase, Tailwind CSS, shadcn, Cloudinary.   
 Live Demo: coming soon!  
-GitHub: https://github.com/graydonvg/gallery-ai
+GitHub: https://github.com/graydonvg/gallery-ai  
+Status: Work in progress.
 
 ## 💌 Let's Connect!
 🌐 Portfolio: https://portfolio-iota-ruby-51.vercel.app/  
