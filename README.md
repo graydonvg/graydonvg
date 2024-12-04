@@ -1,16 +1,32 @@
-## Hi there 👋
+## 🚀 About Me
+Hi there! I'm Graydon, a passionate Front-End Web Developer with expertise in JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Material UI, and more. I specialize in creating responsive, accessible, and visually appealing web applications that deliver exceptional user experiences.
 
-<!--
-**graydonvg/graydonvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Based in Cape Town, South Africa. Currently seeking opportunities to contribute my skills and grow as a developer!
 
-Here are some ideas to get you started:
+## 🛠️ Some of my favourite technologies
+•	**Languages & Frameworks**: JavaScript, TypeScript, React.js, Next.js.  
+•	**Styling & Design**: HTML, CSS, Tailwind CSS, Material UI, shadcn.  
+•	**State Management & Backend**: Redux Toolkit, Supabase, Firebase.  
+•	**Tools & Platforms**: Git, VS Code, Vercel, Figma.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+**MyStore**  
+A clothing e-commerce store featuring an admin panel with role-based access control. 
+
+Tech Stack: TypeScript, React.js, Next.js, Redux, Supabase, Material UI, Stripe.   
+Live Demo: https://my-store-henna.vercel.app/  
+GitHub: https://github.com/graydonvg/my-store
+
+**Gallery AI**  
+A media gallery with AI powered editing features.
+
+Tech Stack: TypeScript, React.js, Next.js, Redux, Supabase, Tailwind CSS, shadcn, Cloudinary.   
+Live Demo: coming soon!  
+GitHub: https://github.com/graydonvg/gallery-ai
+
+## 💌 Let's Connect!
+🌐 Portfolio: https://portfolio-iota-ruby-51.vercel.app/  
+💼 LinkedIn: www.linkedin.com/in/graydon-von-gossler  
+📧 Email: graydonvg@gmail.com  
+
+I'm open to collaboration on exciting projects or opportunities to bring value as a Front-End Developer. Let's build something amazing together! 🚀
