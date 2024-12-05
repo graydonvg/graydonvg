@@ -27,7 +27,7 @@ GitHub: https://github.com/graydonvg/gallery-ai
 Status: Work in progress.
 
 ## 💌 Let's Connect!
-🌐 Portfolio: https://portfolio-iota-ruby-51.vercel.app/  
+🌐 Portfolio: https://www.graydonvongossler.com/
 💼 LinkedIn: www.linkedin.com/in/graydon-von-gossler  
 📧 Email: graydonvg@gmail.com  
 
