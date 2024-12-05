@@ -27,7 +27,7 @@ GitHub: https://github.com/graydonvg/gallery-ai
 Status: Work in progress.
 
 ## 💌 Let's Connect!
-🌐 Portfolio: https://www.graydonvongossler.com/  
+🌐 Portfolio: https://www.graydonvongossler.com  
 💼 LinkedIn: www.linkedin.com/in/graydon-von-gossler  
 📧 Email: graydonvg@gmail.com  
 
