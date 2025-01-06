@@ -1,5 +1,5 @@
 ## 🚀 About Me
-Hi there! I'm Graydon, a passionate Front-End Web Developer with expertise in HTML, CSS, JavaScript, TypeScript, React.js, Next.js, and more. I specialize in crafting responsive, accessible, and high-performance web applications that are visually appealing and user-focused.
+Hi, I'm Graydon! A passionate Front-End Web Developer with expertise in modern web technologies and frameworks, including HTML, CSS, JavaScript, TypeScript, React.js, and Next.js. I specialize in crafting responsive, accessible, and high-performance web applications that are visually appealing and user-focused.
 
 📍 Based in Cape Town, South Africa. Currently seeking opportunities to contribute my skills and grow as a developer!
 
