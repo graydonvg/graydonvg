@@ -11,20 +11,20 @@ Hi, I'm Graydon! A passionate Front-end Web Developer with expertise in modern w
 •	**Tools & Platforms**: Git, VS Code, Vercel.  
 
 ## 🌟 Featured Projects
-**MyStore**  
-A clothing e-commerce store featuring an admin panel with role-based access control. 
-
-Tech Stack: TypeScript, React.js, Next.js, Redux, Supabase, Material UI, Stripe.   
-Live Demo: https://my-store-henna.vercel.app/  
-GitHub: https://github.com/graydonvg/my-store  
-Status: Work in progress.
-
 **Zentry clone**  
 A clone of zentry.com which won the Awwwards "Sit of the Day" on Aug 28, 2024.
 
 Tech Stack: TypeScript, React.js, Next.js, Zustand, Tailwind CSS, GSAP..   
 Live Demo: https://zentry-clone-lemon.vercel.app/  
 GitHub: https://github.com/graydonvg/zentry-clone  
+Status: Work in progress.
+
+**MyStore**  
+A clothing e-commerce store featuring an admin panel with role-based access control. 
+
+Tech Stack: TypeScript, React.js, Next.js, Redux, Supabase, Material UI, Stripe.   
+Live Demo: https://my-store-henna.vercel.app/  
+GitHub: https://github.com/graydonvg/my-store  
 Status: Work in progress.
 
 ## 💌 Let's Connect!
