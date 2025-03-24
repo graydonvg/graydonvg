@@ -7,7 +7,7 @@ Hi, I'm Graydon! A passionate Front-end Web Developer with expertise in modern w
 •	**Languages & Frameworks**: JavaScript, TypeScript, React.js, Next.js.  
 •	**Styling & Design**: HTML, CSS, Tailwind CSS, Material UI, shadcn.  
 •	**Animation**: GSAP, Motion (previously Framer Motion).    
-•	**State Management & Backend**: Redux Toolkit, Zustand, Supabase, Firebase.  
+•	**State Management & Backend**: React Context, Redux Toolkit, Zustand, React Query, Supabase, Firebase.  
 •	**Tools & Platforms**: Git, VS Code, Vercel.  
 
 ## 🌟 Featured Projects
